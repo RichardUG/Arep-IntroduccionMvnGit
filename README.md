@@ -41,7 +41,7 @@ Despues de ejecutarlo saldra este texto, el cual indica que las pruebas que se e
 * [Java](https://www.oracle.com/java/): Lenguaje de programación de propósito general, es decir, que sirve para muchas cosas, para web, servidores, aplicaciones móviles, entre otros. Java también es un lenguaje orientado a objetos, y con un fuerte tipado de variables.
 
 ## Autor
-Richard Santiago Urrea Garcia
+[Richard Santiago Urrea Garcia](https://github.com/RichardUG)
 
 ## Licencia & Derechos de Autor
 **©** Richard Santiago Urrea Garcia, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
