@@ -5,7 +5,7 @@
 ### Pre-requisitos
 
 ```
->Para  elaborar este proyecto requeimos de dos tecnologias:
+> Para  elaborar este proyecto requeimos de dos tecnologias:
 > * [Maven](https://es.wikipedia.org/wiki/Maven): Herramienta la cual permite realizar la construción de proyectos, realizarles pruebas y otras funciones.
 > * [Git](https://es.wikipedia.org/wiki/Git): Software de control de versionamiento centralizado.
 ```
