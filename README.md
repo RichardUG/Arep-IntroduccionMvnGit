@@ -22,7 +22,7 @@ Realizamos el package del proyecto
 ```
 mvn package
 ```
-
+![img](https://github.com/RichardUG/Arep-IntroduccionMvnGit/tree/main/img/testpackage.PNG)
 
 ## Running the tests
 
