@@ -2,18 +2,12 @@
 
 >Taller de repaso de manejo de Maven y GIT, el cual sera un programa para calcular la desviación estándar y media de un conjunto de n números reales, realizando la lectura de los n números reales de un archivo de texto, el cual utilizara una Linkedlist para almacenar los n números para posteriormente los respectivos cálculos. Escribiendo una implementación de una Linkedlist que sea compatible con la API de colecciones de Java.
 
-## Pre-requisitos
+### Pre-requisitos
 
+```
 >Para  elaborar este proyecto requeimos de dos tecnologias:
 > * [Maven](https://es.wikipedia.org/wiki/Maven): Herramienta la cual permite realizar la construción de proyectos, realizarles pruebas y otras funciones.
 > * [Git](https://es.wikipedia.org/wiki/Git): Software de control de versionamiento centralizado.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
 ```
 
 ### Installing
