@@ -4,41 +4,35 @@
 
 ### Pre-requisitos
 
-```
- Para  elaborar este proyecto requeimos de dos tecnologias:
- * [Maven](https://es.wikipedia.org/wiki/Maven): Herramienta la cual permite realizar la construción de proyectos, realizarles pruebas y otras funciones.
- * [Git](https://es.wikipedia.org/wiki/Git): Software de control de versionamiento centralizado.
-```
+> Para  elaborar este proyecto requeimos de dos tecnologias:
+> * [Maven](https://es.wikipedia.org/wiki/Maven): Herramienta la cual permite realizar la construción de proyectos, realizarles pruebas y otras funciones.
+> * [Git](https://es.wikipedia.org/wiki/Git): Software de control de versionamiento centralizado.
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
+### Instalación
 
-Say what the step will be
+Clonamos este repositario desde cmd, con el siguiente comando
 
 ```
-Give the example
+git clone https://github.com/RichardUG/Arep-IntroduccionMvnGit.git
 ```
 
-And repeat
+Realizamos el package del proyecto
 
 ```
-until finished
+mvn package
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Desde el mismo cmd, realizamos las pruebas unitarias por medio de maven, con el comando
 
 ```
-Give an example
+mvn test
 ```
+Despues de ejecutarlo saldra este texto, el cual indica que las pruebas que se ejecutaron al interior del programa, fueron ejecutadas de manera exitosa.
+
 
 ### And coding style tests
 
